@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "+t/wYVGQxOj66nOUkw5cnw4TI8nGorY/o+aDXt0nQEgwdJnyjNxripnSYswu0sypbvJDEAIcfP2v4aq6u8DAag==",
+  "success": true,
+  "projectFilePath": "D:\\PROJET VLC\\mediaPlayer\\mediaPlayer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\oyeos\\.nuget\\packages\\vlc.dotnet.core\\3.1.0\\vlc.dotnet.core.3.1.0.nupkg.sha512",
+    "C:\\Users\\oyeos\\.nuget\\packages\\vlc.dotnet.core.interops\\3.1.0\\vlc.dotnet.core.interops.3.1.0.nupkg.sha512",
+    "C:\\Users\\oyeos\\.nuget\\packages\\vlc.dotnet.forms\\3.1.0\\vlc.dotnet.forms.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

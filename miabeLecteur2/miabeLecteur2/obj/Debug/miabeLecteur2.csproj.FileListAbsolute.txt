@@ -1,0 +1,16 @@
+D:\PROJET VLC\miabeLecteur2\miabeLecteur2\bin\Debug\miabeLecteur2.exe.config
+D:\PROJET VLC\miabeLecteur2\miabeLecteur2\bin\Debug\miabeLecteur2.exe
+D:\PROJET VLC\miabeLecteur2\miabeLecteur2\bin\Debug\miabeLecteur2.pdb
+D:\PROJET VLC\miabeLecteur2\miabeLecteur2\obj\Debug\miabeLecteur2.csproj.SuggestedBindingRedirects.cache
+D:\PROJET VLC\miabeLecteur2\miabeLecteur2\obj\Debug\miabeLecteur2.Form1.resources
+D:\PROJET VLC\miabeLecteur2\miabeLecteur2\obj\Debug\miabeLecteur2.Properties.Resources.resources
+D:\PROJET VLC\miabeLecteur2\miabeLecteur2\obj\Debug\miabeLecteur2.csproj.GenerateResource.cache
+D:\PROJET VLC\miabeLecteur2\miabeLecteur2\obj\Debug\miabeLecteur2.csproj.CoreCompileInputs.cache
+D:\PROJET VLC\miabeLecteur2\miabeLecteur2\obj\Debug\miabeLecteur2.exe
+D:\PROJET VLC\miabeLecteur2\miabeLecteur2\obj\Debug\miabeLecteur2.pdb
+D:\PROJET VLC\miabeLecteur2\miabeLecteur2\bin\Debug\Interop.WMPLib.dll
+D:\PROJET VLC\miabeLecteur2\miabeLecteur2\bin\Debug\AxInterop.WMPLib.dll
+D:\PROJET VLC\miabeLecteur2\miabeLecteur2\obj\Debug\Interop.WMPLib.dll
+D:\PROJET VLC\miabeLecteur2\miabeLecteur2\obj\Debug\AxInterop.WMPLib.dll
+D:\PROJET VLC\miabeLecteur2\miabeLecteur2\obj\Debug\miabeLecteur2.csproj.ResolveComReference.cache
+D:\PROJET VLC\miabeLecteur2\miabeLecteur2\obj\Debug\miabeLecteur2.csproj.AssemblyReference.cache

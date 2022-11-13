@@ -1,0 +1,17 @@
+D:\PROJET VLC\mediaPlayer\bin\Debug\netcoreapp3.1\mediaPlayer.exe
+D:\PROJET VLC\mediaPlayer\bin\Debug\netcoreapp3.1\mediaPlayer.deps.json
+D:\PROJET VLC\mediaPlayer\bin\Debug\netcoreapp3.1\mediaPlayer.runtimeconfig.json
+D:\PROJET VLC\mediaPlayer\bin\Debug\netcoreapp3.1\mediaPlayer.runtimeconfig.dev.json
+D:\PROJET VLC\mediaPlayer\bin\Debug\netcoreapp3.1\mediaPlayer.dll
+D:\PROJET VLC\mediaPlayer\bin\Debug\netcoreapp3.1\mediaPlayer.pdb
+D:\PROJET VLC\mediaPlayer\obj\Debug\netcoreapp3.1\mediaPlayer.csproj.AssemblyReference.cache
+D:\PROJET VLC\mediaPlayer\obj\Debug\netcoreapp3.1\mediaPlayer.Form1.resources
+D:\PROJET VLC\mediaPlayer\obj\Debug\netcoreapp3.1\mediaPlayer.csproj.GenerateResource.cache
+D:\PROJET VLC\mediaPlayer\obj\Debug\netcoreapp3.1\mediaPlayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROJET VLC\mediaPlayer\obj\Debug\netcoreapp3.1\mediaPlayer.AssemblyInfoInputs.cache
+D:\PROJET VLC\mediaPlayer\obj\Debug\netcoreapp3.1\mediaPlayer.AssemblyInfo.cs
+D:\PROJET VLC\mediaPlayer\obj\Debug\netcoreapp3.1\mediaPlayer.csproj.CoreCompileInputs.cache
+D:\PROJET VLC\mediaPlayer\obj\Debug\netcoreapp3.1\mediaPlayer.dll
+D:\PROJET VLC\mediaPlayer\obj\Debug\netcoreapp3.1\mediaPlayer.pdb
+D:\PROJET VLC\mediaPlayer\obj\Debug\netcoreapp3.1\mediaPlayer.genruntimeconfig.cache
+D:\PROJET VLC\mediaPlayer\obj\Debug\netcoreapp3.1\mediaPlayer.Properties.Resources.resources
